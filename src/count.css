@@ -1,0 +1,22 @@
+#c{
+    margin: 0;
+    height: 300px;
+    width: 500px;
+    padding: 10px;
+    /* border: solid ; */
+    background-color: aqua;
+}
+#add{
+    background-color: rgb(26, 133, 133);
+}
+#a{
+    /* border: 1px solid; */
+    height: 200px;
+    /* height: 200px;
+    width: 400px; */
+    padding-left: 30px;
+    background-color: white;
+}
+#minus{
+    background-color: rgb(55, 185, 94);
+}
